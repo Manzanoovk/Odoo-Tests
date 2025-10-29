@@ -9,5 +9,6 @@ Seleccionamos la región en Frankfurt, y el plan gratuito.
 Esperamos a que el servicio web se inicie y se acabe de configurar.
 
 Ya dentro de Render con el servicio web iniciado creamos un nuevo postgres, lo nombraremos y ahi es donde tendremos la base de datos, vinculada al anterior proyecto con el servicio web.
-Esperamos a que el postgres acabe de iniciarse y ya con todo iniciado, volveremos al la configuración "Enviroment" del servicio web y añadiremos las variables "PGUSER, PGPASSWORD, PGDATABASE, PGPORT y PGHOST", y añadimos los valores a las variables, sacado del postgres que habrá generado esos valores automáticamente.
+Esperamos a que el postgres acabe de iniciarse y ya con todo iniciado, volveremos a la configuración "Enviroment" del servicio web y añadiremos las variables "PGUSER, PGPASSWORD, PGDATABASE, PGPORT y PGHOST", y añadimos los valores a las variables, sacado del postgres que habrá generado esos valores automáticamente.
+
 
